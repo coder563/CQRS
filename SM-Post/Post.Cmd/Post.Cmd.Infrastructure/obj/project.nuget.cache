@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gfYsicBoGJJ4aDNv6bI3JO9u1aJrXuWJXbkPV4myxDZcC7El5BfbeH5KgLPWYqQMJ33yH1cJ5+AopSRbEuVSAA==",
+  "dgSpecHash": "J9T3FBbo/WidlVuR5KMFKn0lCv450CucBQrRpkfwKLvoRbvPlHOm+GwD0pQF0hhxfvYYHo6Z7V2VvJqvUEKEiw==",
   "success": true,
   "projectFilePath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [

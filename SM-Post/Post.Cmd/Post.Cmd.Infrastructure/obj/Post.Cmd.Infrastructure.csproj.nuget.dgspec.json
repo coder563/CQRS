@@ -63,14 +63,14 @@
         }
       }
     },
-    "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+    "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectUniqueName": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "projectName": "Post.Cmd.Domain",
-        "projectPath": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectPath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "packagesPath": "C:\\Users\\nacmarat\\.nuget\\packages\\",
-        "outputPath": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
+        "outputPath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nacmarat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -148,8 +148,8 @@
               "C:\\tech\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
                 "projectPath": "C:\\tech\\CQRS\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
-                "projectPath": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+              "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+                "projectPath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
               }
             }
           }
