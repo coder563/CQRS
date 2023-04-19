@@ -1,0 +1,17 @@
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.deps.json
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.dll
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Cmd.Domain.pdb
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\CQRS.Core.dll
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Common.dll
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\CQRS.Core.pdb
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net7.0\Post.Common.pdb
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.AssemblyInfo.cs
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.csproj.CopyComplete
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.dll
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\refint\Post.Cmd.Domain.dll
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\Post.Cmd.Domain.pdb
+C:\tech\CQRS\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net7.0\ref\Post.Cmd.Domain.dll
