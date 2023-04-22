@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eX26qc+Q7eUYsNY/ZYkPdKU4UpXlezEBqUo/4p0rO5mFCY+VIVqkAxYGnkdeQGUPGCGEpZBc/t46zCYOjqvp8Q==",
+  "dgSpecHash": "Tc/6HFbuqjBB6NSvk9tEkbQhsWua1BMbz7h7J22urmZoBdVzAarIUs9yBfmXhmZ5NivMzAu9eJDWbYoiDlgF7Q==",
   "success": true,
   "projectFilePath": "C:\\tech\\CQRS\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [

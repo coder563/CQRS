@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tsGohRrYUuPsMKiV5tGCAZPB3O4j6X+P+VXpS5RMHdG0bq/CNj1Ds/eVAvAPbW/HOnDyTet9CzwoZAcOSqtZAg==",
+  "dgSpecHash": "qCLs9T2Z0VZ9/++wdS6oF3E4GGhd/6d3EUNu+a5y6/GSE0jvW/R0SD0/ZEMbDO/HrZqHvl9rdTDezbjUzZGJEg==",
   "success": true,
   "projectFilePath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
   "expectedPackageFiles": [

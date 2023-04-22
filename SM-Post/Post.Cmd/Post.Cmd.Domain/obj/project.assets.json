@@ -793,11 +793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+      "projectUniqueName": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
       "projectName": "Post.Cmd.Domain",
-      "projectPath": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+      "projectPath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
       "packagesPath": "C:\\Users\\nacmarat\\.nuget\\packages\\",
-      "outputPath": "c:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
+      "outputPath": "C:\\tech\\CQRS\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nacmarat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -846,7 +846,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
